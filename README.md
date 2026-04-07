@@ -37,12 +37,6 @@ Hi 👋, I'm Pramodh
 
 ---
 
-📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PramodhV2007&show_icons=true&theme=tokyonight)
-
----
-
 🎯 2026 Goals
 
 - 🚀 Build AI-based projects
